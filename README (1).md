@@ -1,4 +1,5 @@
-# RAILWAY-MANAGEMENT-SYSTEM
-• Here I Developed the Algorithm for automation of the booking of the Railway ticket.
-• Organized the Ticket booking process in such a way that the Customer can book the tickets in an easy manner & the information regarding the booking is managed for the authorities.
-• You can find the code in both C and C++ languages.
+# Railway Management System
+
+- Developed an algorithm for automating the booking of railway tickets.
+- Organized the ticket booking process to enable easy booking for customers and efficient management of booking information for authorities.
+- The code is available in both C and C++ languages.
